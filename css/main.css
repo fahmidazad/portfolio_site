@@ -1,7 +1,9 @@
-.slider-container {
-	width: 200px;
-	height: 200px;
-	margin-right: auto;
+.center {
 	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
 
+.portfolio-thumbnail {
+	height: 300px;
 }
