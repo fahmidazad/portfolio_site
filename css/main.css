@@ -4,6 +4,25 @@
 	float: none;
 }
 
-.portfolio-thumbnail {
-	height: 300px;
+.bg-antique-white {
+	background-color: antiquewzhite
+}
+
+#contact .social-buttons a {
+	background-color: white;
+	color: #222;
+}
+
+#contact {
+	color: white;
+}
+
+.social-buttons {
+	margin-top: 40px;
+}
+
+.social-buttons li {
+	margin-top: 30px;
+	padding-right: 7px;
+  	padding-left: 7px;
 }
